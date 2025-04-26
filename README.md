@@ -6,9 +6,6 @@ Este proyecto es una aplicación desarrollada con Django que permite cargar arch
 
 - **Python 3.x**
 - **Django 5.2**
-- **asgiref 3.8.1**
-- **sqlparse 0.5.3**
-- **tzdata 2025.2**
 
 ## Instalación
 
@@ -16,7 +13,7 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/Katsbriell/django-project
 
 2. Entra en la carpeta del proyecto:
    ```bash
