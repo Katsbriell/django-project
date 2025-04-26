@@ -30,11 +30,12 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
   source env/bin/activate
 4. Instalar dependencias
    ```bash
-   pip install r requirements.txt
+   pip install -r requirements.txt
 
 5. Correr el servidor
    ```bash
    python manage.py runserver
+
 6. Abrir la aplicación en el navegador con: http://127.0.0.1:8000/index/
 
 ## Uso 
